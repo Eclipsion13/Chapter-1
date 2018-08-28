@@ -1,0 +1,12 @@
+package chapter1Exercises;
+
+import javax.swing.JOptionPane;
+public class NotReallyRandom {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		JOptionPane.showMessageDialog(null,"Pick a number between 1 and 42");
+		JOptionPane.showMessageDialog(null,"Is the number "+(1+ (int)(Math.random() * 42)) + "?");
+	}
+
+}
