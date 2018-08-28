@@ -1,0 +1,12 @@
+package chapter1Exercises;
+
+public class tableAndChairs {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World");
+		System.out.println("Github won't load");
+		System.out.println("What a suprise");
+	}
+
+}
