@@ -19,7 +19,7 @@ public class tableAndChairs {
 	public static void displayTruck() {
 		System.out.println("                             ");
 		System.out.println("                             ");
-		System.out.println("            /~;+^;+}         ");
+		System.out.println("            /~;+^;+\\         ");
 		System.out.println("   ________(________)________");
 		System.out.println("  /                         |");
 		System.out.println("  |]=========v^^^^^^^^^v====|");
