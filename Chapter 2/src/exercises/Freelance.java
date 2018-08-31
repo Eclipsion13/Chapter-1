@@ -2,8 +2,6 @@ package exercises;
 
 import java.util.Scanner;
 
-import javax.swing.JOptionPane;
-
 public class Freelance {
 
 	public static void main(String[] args) {
