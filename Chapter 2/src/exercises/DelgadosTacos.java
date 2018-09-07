@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public class DelgadosTacos {
 
 	public static void main(String[] args) {
-		// TODO Tacos, Burritos, Enchiladas, Quesadillas, Tamales
+		// DONE Tacos, Burritos, Enchiladas, Quesadillas, Tamales
 		
 		final double TACO$ = 2.25;
 		final double BURRI$ = 3.25;
@@ -54,8 +54,10 @@ public class DelgadosTacos {
 				" without tax. \nWith tax it cost $" + totalTax + ".");
 		JOptionPane.showMessageDialog(null, "Thank you for purcahsing from Delgado's Tacos! \n" +
 				"                        /~;+^;+\\         \n"
-				+ "   ________(_______)_________\n" + "  \\                                                          |\n" + 
-						"   |]==========v^^^^^^^^v====|\n" + " _|]   Delgado's  |     O/          |          |\n" + 
+				+ "   ________(_______)_________\n" +
+				"  \\                                                          |\n" + 
+						"   |]==========v^^^^^^^^v====|\n" +
+				" _|]   Delgado's  |     O/          |          |\n" + 
 						"/+++++Tacos++|___|_____|++++|\n" + "|_________________________|\n" + 
 						"     |___|                               |___|     \n");
 
